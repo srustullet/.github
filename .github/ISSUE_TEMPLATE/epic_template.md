@@ -1,3 +1,10 @@
+---
+name: Epic
+about: One per product: tracks all its sub-issues
+title: '[PRODUCT-NAME] - Epic'
+labels: ['epic']
+---
+
 Primary tracking for **[PRODUCT-NAME]**
 
 ### 🎯 Product Vision
