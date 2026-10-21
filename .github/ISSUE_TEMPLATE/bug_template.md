@@ -1,3 +1,10 @@
+---
+name: Bug
+about: Something is broken
+title: 'fix: '
+labels: ['bug']
+---
+
 ## 🕹 Steps to Reproduce
 1. 
 2. 
