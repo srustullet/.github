@@ -1,3 +1,10 @@
+---
+name: Feature
+about: A new capability or change
+title: 'feat: '
+labels: ['feature']
+---
+
 ## 🎯 Objective
 [What you want to achieve with this feature.]
 
